@@ -1,8 +1,28 @@
 aid: tech-soft-3d
 name: Tech Soft 3D
-description: Tech Soft 3D is a company surfaced as a portfolio company of battery-ventures and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Tech Soft 3D builds developer SDKs and enterprise applications that power 3D
+  data exchange, visualization, and analysis across engineering, manufacturing,
+  and design. Its HOOPS toolkits (Exchange for CAD data translation and access,
+  Visualize for high-performance 3D graphics, Access, Mesh, Solve, and Envision)
+  are licensed to OEMs and independent developers building CAD, CAM, CAE, and PLM
+  software, and it also distributes Siemens Parasolid and Polygonica. Alongside the
+  native toolkits it publishes the HOOPS Visualize Web Components (open, first-party
+  npm packages), SpinFire enterprise viewing/conversion apps, and OEM technologies
+  such as AutoCAD OEM, Inventor OEM, and RealDWG. Tech Soft 3D is backed by Battery
+  Ventures.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://a-us.storyblok.com/f/1023536/1920x1080/b20a12e4dd/tech-soft-3d-home.jpg
 url: https://raw.githubusercontent.com/api-evangelist/tech-soft-3d/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,12 +32,54 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- 3D
+- CAD
+- SDK
+- Visualization
+- Data Exchange
+- Engineering
+- Manufacturing
+- Web Components
 apis: []
+common:
+- type: TrustCenter
+  url: security/tech-soft-3d-trust-center.yml
+- type: DomainSecurity
+  url: security/tech-soft-3d-domain-security.yml
+- type: Website
+  url: https://www.techsoft3d.com
+- type: DeveloperPortal
+  url: https://developer.techsoft3d.com
+- type: Documentation
+  url: https://docs.techsoft3d.com/landing/latest/
+- type: GettingStarted
+  url: https://developer.techsoft3d.com/start/
+- type: Blog
+  url: https://www.techsoft3d.com/developers/resources/blog/
+- type: Support
+  url: https://forum.techsoft3d.com/
+- type: GitHubOrganization
+  url: https://github.com/techsoft3d
+- type: PrivacyPolicy
+  url: https://www.techsoft3d.com/legal/privacy-policy/
+- type: LLMsTxt
+  url: llms/tech-soft-3d-llms.txt
+- type: Packages
+  url: packages/tech-soft-3d-packages.yml
+- type: SDKs
+  url: packages/tech-soft-3d-packages.yml
+- type: Components
+  url: components/tech-soft-3d-components.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 5
+  pass: local-v1

@@ -1,0 +1,10 @@
+generated: '2026-07-21'
+method: searched
+probe: true
+source: https://trust.techsoft3d.com/
+url: https://trust.techsoft3d.com/
+evidence:
+- source: https://trust.techsoft3d.com/
+  keywords:
+  - trust center
+  - compliance certification

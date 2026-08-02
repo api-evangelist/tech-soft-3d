@@ -1,0 +1,46 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.npmjs.com/org/ts3d-hoops
+notes: >-
+  Tech Soft 3D's core HOOPS toolkits (Exchange, Visualize, Access, Mesh, Solve,
+  Envision) are commercial native (C++/C) SDKs distributed as licensed downloads
+  through the Developer Zone, not via public package registries. The publicly
+  published, first-party libraries are the HOOPS Visualize Web Components package
+  set under the @ts3d-hoops npm scope (source: github.com/techsoft3d/hoops-visualize-web-components).
+packages:
+  - language: javascript
+    registry: npm
+    name: "@ts3d-hoops/web-viewer-components"
+    version: "2026.5.0"
+    url: https://www.npmjs.com/package/@ts3d-hoops/web-viewer-components
+    install: npm install @ts3d-hoops/web-viewer-components
+    description: High-level web components and services for building HOOPS Web Viewer applications.
+    source: https://github.com/techsoft3d/hoops-visualize-web-components
+    official: true
+  - language: javascript
+    registry: npm
+    name: "@ts3d-hoops/web-viewer-components-react"
+    version: "2026.5.0"
+    url: https://www.npmjs.com/package/@ts3d-hoops/web-viewer-components-react
+    install: npm install @ts3d-hoops/web-viewer-components-react
+    description: React component wrappers for @ts3d-hoops/web-viewer-components.
+    source: https://github.com/techsoft3d/hoops-visualize-web-components
+    official: true
+  - language: javascript
+    registry: npm
+    name: "@ts3d-hoops/ui-kit"
+    version: "2026.5.0"
+    url: https://www.npmjs.com/package/@ts3d-hoops/ui-kit
+    install: npm install @ts3d-hoops/ui-kit
+    description: A modern web component library built with Lit for HOOPS applications.
+    source: https://github.com/techsoft3d/hoops-visualize-web-components
+    official: true
+  - language: javascript
+    registry: npm
+    name: "@ts3d-hoops/ui-kit-react"
+    version: "2026.5.0"
+    url: https://www.npmjs.com/package/@ts3d-hoops/ui-kit-react
+    install: npm install @ts3d-hoops/ui-kit-react
+    description: React component wrappers for @ts3d-hoops/ui-kit web components.
+    source: https://github.com/techsoft3d/hoops-visualize-web-components
+    official: true

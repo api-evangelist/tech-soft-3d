@@ -1,0 +1,53 @@
+# Tech Soft 3D
+
+> Tech Soft 3D provides 3D software development toolkits and applications for engineering, manufacturing, and design professionals.
+
+## About
+
+Tech Soft 3D builds SDKs and applications that power 3D data exchange, visualization, and analysis across industries including aerospace, automotive, manufacturing, construction, and more. Our tools are used by OEMs and developers worldwide to build CAD, CAM, CAE, and PLM software.
+
+## Products
+
+### HOOPS Toolkits (Developer SDKs)
+- [HOOPS Exchange](https://www.techsoft3d.com/developers/products/hoops-exchange/): 3D CAD data translation and access
+- [HOOPS Visualize](https://www.techsoft3d.com/developers/products/hoops-visualize/): High-performance 3D visualization engine
+- [HOOPS Access](https://www.techsoft3d.com/developers/products/hoops-access/): Post-processing and simulation results visualization
+- [HOOPS Mesh](https://www.techsoft3d.com/developers/products/hoops-mesh/): Advanced mesh generation
+- [HOOPS Solve](https://www.techsoft3d.com/developers/products/hoops-solve/): Geometry constraint solving
+- [HOOPS Envision](https://www.techsoft3d.com/developers/products/hoops-envision/): 3D model presentation and publishing
+- [HOOPS AI](https://www.techsoft3d.com/developers/products/hoops-ai/): AI-powered 3D capabilities
+
+### Partner Products
+- [Siemens Parasolid](https://www.techsoft3d.com/developers/products/parasolid/): CAD modeling kernel
+- [Polygonica](https://www.techsoft3d.com/developers/products/polygonica/): Geometry processing
+
+### SpinFire Apps (Enterprise Applications)
+- [SpinFire Convert](https://www.techsoft3d.com/enterprise/spinfire-convert/): 3D CAD file conversion, lightweight visualization, and 3D PDF
+- [SpinFire Insight](https://www.techsoft3d.com/enterprise/spinfire-insight/): 3D CAD viewing and analysis
+- [SpinFire XR](https://www.techsoft3d.com/enterprise/spinfire-xr/): Extended reality visualization
+- [SpinFire Manage](https://www.techsoft3d.com/enterprise/spinfire-manage/): 3D data management
+
+### OEM Products
+- [AutoCAD OEM](https://www.techsoft3d.com/oem/autocad-oem/): Embedded AutoCAD technology
+- [Inventor OEM](https://www.techsoft3d.com/oem/inventor-oem/): Embedded Inventor technology
+- [RealDWG](https://www.techsoft3d.com/oem/realdwg/): DWG file format SDK
+
+## Developer Solutions
+- [Data Translation](https://www.techsoft3d.com/developers/solutions/data-translation/)
+- [3D Modeling](https://www.techsoft3d.com/developers/solutions/3d-modeling/)
+- [Simulation](https://www.techsoft3d.com/developers/solutions/simulation/)
+- [Graphics](https://www.techsoft3d.com/developers/solutions/graphics/)
+
+## Resources
+- [Developer Blog](https://www.techsoft3d.com/developers/resources/blog/): Technical articles and company updates
+- [Enterprise Blog](https://www.techsoft3d.com/enterprise/resources/blog/): Enterprise product updates
+- [Case Studies](https://www.techsoft3d.com/developers/resources/case-studies/): Customer success stories
+- [Labs](https://www.techsoft3d.com/developers/labs/): Interactive demos and experiments
+- [Events](https://www.techsoft3d.com/developers/resources/events/): Upcoming conferences and webinars
+- [Documentation](https://docs.techsoft3d.com/landing/latest/): Developer documentation
+- [Forum](https://forum.techsoft3d.com/): Community forum and knowledge base
+
+## Contact
+- Website: https://www.techsoft3d.com
+- Contact: https://www.techsoft3d.com/contact/
+- Company: https://www.techsoft3d.com/company/

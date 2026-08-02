@@ -1,0 +1,39 @@
+generated: '2026-07-21'
+method: searched
+source: https://github.com/techsoft3d/hoops-visualize-web-components
+description: >-
+  Client-side, embeddable UI components for building 3D CAD visualization
+  applications on HOOPS Visualize Web technology. Published first-party under
+  the @ts3d-hoops npm scope. Distinct from the native HOOPS server/desktop SDKs.
+families:
+  - name: HOOPS Visualize Web Components
+    kind: web-components
+    technology: Lit
+    loaders:
+      - "@ts3d-hoops/ui-kit"
+      - "@ts3d-hoops/web-viewer-components"
+    components:
+      - name: ui-kit
+        package: "@ts3d-hoops/ui-kit"
+        description: Core UI web components built with Lit for HOOPS applications.
+      - name: web-viewer-components
+        package: "@ts3d-hoops/web-viewer-components"
+        description: High-level 3D viewer components and services for HOOPS Web Viewer applications.
+  - name: HOOPS Visualize Web Components (React)
+    kind: react-wrappers
+    technology: React
+    loaders:
+      - "@ts3d-hoops/ui-kit-react"
+      - "@ts3d-hoops/web-viewer-components-react"
+    components:
+      - name: ui-kit-react
+        package: "@ts3d-hoops/ui-kit-react"
+        description: React wrappers for the ui-kit web components.
+      - name: web-viewer-components-react
+        package: "@ts3d-hoops/web-viewer-components-react"
+        description: React wrappers for the 3D web viewer components.
+demos:
+  - name: HOOPS Web Platform React demo
+    url: https://github.com/techsoft3d/hwp-demo-react
+  - name: Communicator Electron demo viewer
+    url: https://github.com/techsoft3d/communicator_demo_viewer
