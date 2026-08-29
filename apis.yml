@@ -11,6 +11,17 @@ description: >-
   npm packages), SpinFire enterprise viewing/conversion apps, and OEM technologies
   such as AutoCAD OEM, Inventor OEM, and RealDWG. Tech Soft 3D is backed by Battery
   Ventures.
+deliveryModel:
+  model: library
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Library · distributed through package registries, no callable service
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
